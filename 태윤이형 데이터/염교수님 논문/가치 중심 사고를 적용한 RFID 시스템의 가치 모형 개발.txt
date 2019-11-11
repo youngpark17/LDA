@@ -1,0 +1,17 @@
+Recently, more and more firms are considering the adoption of RFID technology because it is expected to
+make process automation easier and has many different application areas. A review of existing studies
+about RFID adoption methodology shows that the most of the proposed methodologies are mainly based
+on economic evaluations. However, in the near future when the adoption and diffusion of RFID become
+major forces among business firms, it would surely have some limits to decide its adoption solely on the
+basis of economic considerations. In order for all the important strategic objectives to be considered during
+the major decision processes, it is necessary to make explicit what the decision makers really want to
+achieve from the RFID system. In this paper, we propose a general value model of RFID system which can
+provide an overall vision of all values RFID adoption may offer and a way to search and evaluate
+alternatives on the basis of these values. Especially, this model contains not only opportunities but also
+risks of RFID adoption so that a balanced consideration can be made. The model building process was
+essentially based on the ‘value-focused thinking’ approach proposed by R. Keeney. The proposed model is
+expected to provide insights about what to do in the process of introduction in order to maximize the
+potential benefits and minimize the negative risks. Referring to this value model, the important decisions
+would have greater chance to be based on a balanced consideration of opportunities and risks.
+1)
+Keyword: RFID, value-focused thinking, value model

@@ -1,0 +1,7 @@
+In this paper, we present a study of sequence pattern clustering approach for customers’ shopping path groups on
+actual grocery store data recorded using RFID technology. The approach is performed using K-medoids
+clustering that is able to group shopping path based on its sequence pattern. A method for selecting the best
+cluster number based on sequence pattern similarity that is measured using LCSS (Longest Common
+Subsequence Similarity) is proposed. And the experimental results show the proposed approach performs well
+compared to the traditional approach.
+Keyword: shopping path, sequence pattern clustering, k-medoids clustering, Longest Common Subsequence 

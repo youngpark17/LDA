@@ -1,0 +1,7 @@
+The purpose of this paper is to study the effectiveness of a green roof by simple mathematical
+model. The developed model simulates a green roof during the summer. The results explain and
+support the claims in the literature such that effectiveness of a green roof depends on the climate
+condition, and on the insulation condition of the roof. If insolation can not be reduced more than
+60% by the shading effects of a green roof, more active measures than green roof seem
+necessary. The analysis tools like presented in the paper is necessary especially to consider
+climate effect, to design, and also to test green roof.

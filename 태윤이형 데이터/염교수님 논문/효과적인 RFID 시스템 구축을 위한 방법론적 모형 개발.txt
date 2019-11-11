@@ -1,0 +1,13 @@
+With development of RFID technology, medicine and national defense as well as logistics and distribution
+industries have tried to adopt RFID system. Small projects as well as large national projects have planned to
+adopt the new technology. However, a lot of companies that have promoted a RFID-based project have
+confronted many problems due to a lack of information about demonstration projects and absence of systematic
+guideline. Therefore, it's urgent to develop a practical and useful guideline for companies that have considered to
+adopt the RFID system.
+In this paper, a practical framework to adopt RFID system is suggested by five phases : establishment of project
+plan, analysis of objectives, selection of equipments, development/installation, and operation/post management
+phases. Besides, a detail method by each stages is also given. A systematic RFID system adoption procedure has
+been defined through an analysis on demonstrated projects and interview with an expert and the adoption
+method by stage has been suggested. The purpose of this paper is to minimize the entry barriers by suggesting a
+practical RFID adoption procedure.
+Keywords: Seffective System Development, RFID

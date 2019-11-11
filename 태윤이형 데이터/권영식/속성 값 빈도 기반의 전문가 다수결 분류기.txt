@@ -1,0 +1,14 @@
+In these day, many data including sensor, delivery, credit and stock data are generated
+continuously in massive quantity. It is difficult to learn from these data because they are large in
+volume and changing fast in their concepts. To handle these problems, learning methods based in
+sliding window methods over time have been used. But these approaches have a problem of rebuilding
+models every time new data arrive, which requires a lot of time and cost. Therefore we need very
+simple incremental learning methods. Bayesian method is an example of these methods but it has a
+disadvantage which it requries the prior knowledge(probabiltiy) of data.
+In this study, we propose a learning method based on attribute values. In the proposed method, even
+though we don't know the prior knowledge(probability) of data, we can apply our new method to data.
+The main concept of this method is that each attribute value is regarded as an expert learner,
+summing up the expert learners lead to better results. Experimental results show our learning method
+learns from data very fast and performs well when compared to current learning methods(decision tree
+and bayesian).
+Key words : Data Mining, Majority vote, Commitee Learning

@@ -1,0 +1,13 @@
+A growing number of organizations are considering the adoption of new technologies to enhance their
+competitiveness. The new projects related with RFID technology are some typical examples: the companies
+planning to carry out those projects hope that the introduction of new technology into their organization
+would remedy all their current inefficiencies and eventually bring them considerable economic benefits.
+However, such successful results would not be obtained if the complicated problems related with S/W and
+H/W developments, complex team structure or the migration with barcode and etc. are not resolved
+satisfactorily during the project.
+In this paper, some potential barriers to successful introduction of new technology, especially that of RFID,
+are identified and classified into three categories according to the phases of introduction process, i.e.,
+investigation, implementation and application phases. The results of a survey regarding the importance of
+each barrier, the respondents of which are active developers or consultants of RFID technology, are also given.
+1)
+Keyword: introduction of new technology, potential barriers, RFID

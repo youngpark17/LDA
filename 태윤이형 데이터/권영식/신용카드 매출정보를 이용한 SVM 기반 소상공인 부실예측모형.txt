@@ -1,0 +1,16 @@
+The small & micro business has the characteristics of both consumer credit risk and business credit risk. In
+predicting the bankruptcy for small-micro businesses, the problem is that in most cases, the financial data
+for evaluating business credit risks of small & micro businesses are not available. To alleviate such problem,
+we propose a bankruptcy prediction mechanism using the credit card sales information available, because
+most small businesses are member store of some credit card issuers, which is the main purpose of this
+study.
+In order to perform this study, we derive some variables and analyze the relationship between good and bad
+signs. We employ the new statistical learning technique, support vector machines (SVM) as a classifier. We use
+grid search technique to find out better parameter for SVM. The experimental result shows that credit card sales
+information could be a good substitute for the financial data for evaluating business credit risk in predicting the
+bankruptcy for small-micro businesses. In addition, we also find out that SVM performs best, when compared
+with other classifiers such as neural networks, CART, C5.0 multivariate discriminant analysis (MDA), and
+logistic regression.
+1)
+Keyword: small-micro business, credit evaluation, credit card sales, bankruptcy prediction, support vector
+machines, grid search

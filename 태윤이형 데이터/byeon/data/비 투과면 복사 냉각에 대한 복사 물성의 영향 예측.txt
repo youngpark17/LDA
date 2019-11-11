@@ -1,0 +1,14 @@
+The effects of surface radiative properties on the radiant cooling of opaque surfaces under clear sky condition are studied. Two types of surfaces, one gray and the other selective, are compared. For the nighttime cooling, black surface gives the lowest plate temperature and on the other hand the ideal selective surface gives the highest temperature. The reverse is true when there is an insolation. Equivalent radiative heat transfer coefficient of radiant cooling without convection is about 1 — 7 W/m2-K for the range of values studied. The surface with black within the 6 〜 13/xm band else zero emissivity could be regarded as a black surface for the nighttime radiant cooling purposes. However, lower band limit of 4/xm is preferred to 6/xm for small insolation situations. Keywords
+
+
+
+
+
+
+
+
+
+
+
+
+

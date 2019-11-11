@@ -1,0 +1,8 @@
+The purpose of this paper is to propose the way of computing conduction time series factors
+(CTSF) using numerical method. After the accuracy of the numerical solution procedure being
+verified, the method is applied to the wall type 24 and roof type 14 of ASHARE to find the
+conduction time series coefficients, so called conduction time series factors. The results agree
+well with the values presented in the ASHRAE handbook. The method proposed can be easily
+applied to find unknown CTSF for more complex structures. It provides information about the
+temperature changes at a given location and time, thus validity of generated CTSF can be
+checked easily.

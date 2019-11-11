@@ -1,0 +1,9 @@
+To analyze tens of thousands of alarms triggered by the intrusion detections systems (IDS) a day has been
+very time-consuming, requiring human administrators to stay alert for all time. But most of the alarms
+triggered by the IDS prove to be the false positives. If alarms could be correctly classified into the false
+positive and the false negative, then we could alleviate most of the burden of human administrators and
+manage the IDS far more efficiently. Therefore, we present a new approach based on attribute-oriented
+induction (AOI) to classify alarms into the false positive and the false negative. The experimental results
+show the proposed approach performs very well.
+1)
+Keyword: intrusion detection system (IDS), attribute-oriented induction (AOI), data mining 

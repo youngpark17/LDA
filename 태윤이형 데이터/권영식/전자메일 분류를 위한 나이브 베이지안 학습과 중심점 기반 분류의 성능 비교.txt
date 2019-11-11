@@ -1,0 +1,11 @@
+With the increasing proliferation of World Wide Web, electronic mail systems have become very widely used
+communication tools. Researches on e-mail classification have been very important in that e-mail classification
+system is a major engine for e-mail response management systems which mine unstructured e-mail messages
+and automatically categorize them.
+ In this research we compare the performance of Naive Bayesian learning and Centroid-Based Classification
+using the different data set of an on-line shopping mall and a credit card company. We analyze which method
+performs better under which conditions. We compared classification accuracy of them which depends on
+structure and size of train set and increasing numbers of class.
+ The experimental results indicate that Naive Bayesian learning performs better, while Centroid-Based
+Classification is more robust in terms of classification accuracy.
+Keywords: classification, text mining, naive bayesian classifier, centroid-based classifier

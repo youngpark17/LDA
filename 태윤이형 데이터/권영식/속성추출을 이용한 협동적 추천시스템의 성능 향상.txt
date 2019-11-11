@@ -1,0 +1,6 @@
+One of the problems in developing a collaborative recommendation system is the scalability. To alleviate
+the scalability problem efficiently, enhancing the performance of the recommendation system, we propose
+a new recommendation system using feature selection. In our experiments, the proposed system using
+about a third of all features shows the comparable performances when compared with using all features in
+light of precision, recall and number of computations, as the number of users and products increases.
+Keywords: collaborative recommendation systems, feature selection, data mining

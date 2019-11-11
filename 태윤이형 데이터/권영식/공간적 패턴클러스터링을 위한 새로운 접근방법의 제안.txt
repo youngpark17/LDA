@@ -1,0 +1,11 @@
+Identifying the major moving patterns of shoppersʼ movements in the selling floor has been a longstanding issue in the retailing industry. With the advent of RFID technology, it has been easier to collect
+the moving data for a individual shopperʼs movement. Most of the previous studies used the traditional
+clustering technique to identify the major moving pattern of customers. However, in using clustering
+technique, due to the spatial constraint (aisle layout or other physical obstructions in the store), standard
+clustering methods are not feasible for moving data like shopping path should be adjusted for the analysis
+in advance, which is time-consuming and causes data distortion. To alleviate this problems, we propose a
+new approach to spatial pattern clustering based on longest common subsequence (LCSS). Experimental
+results using the real data obtained from a grocery in Seoul show that the proposed method performs well
+in finding the hot spot and dead spot as well as in finding the major path patterns of customer movements.
+1)
+Keyword: customer path, shopping behavior, exploratory analysis, LCSS, RFID

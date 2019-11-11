@@ -1,0 +1,9 @@
+The shopping path analysis has been very important in order to understand the
+customer behavior in the groceries. Shopping path can be considered to be a sequence data.
+Given a set of sequences, the distance between pairs of shopping paths reflects how close the
+customer shopping paths are in a store. By the distance, we can group the similar shopping
+patterns. In this research, we perform the k-means clustering and compare the performance
+of several distance metrics, including operation distance which we proposed in our previous
+research. Experimental results show our proposed distance measure performs best in light
+precision.
+Keywords: sequence distance metric, shopping path.

@@ -1,0 +1,45 @@
+A smart factory is emerging as the most obvious countermeasure against the manpower
+shortage and the increase of customer demand which the manufacturing industry is experiencing all
+over the world. In the case of Korea, it is inferior in terms of technology and quality competitiveness
+to the US, Germany and Japan, which are traditional manufacturing powers and price competitiveness
+to China, which has been growing fast due to its labor intensiveness.
+In addition, There is also a negative outlook that Korea will drop from the 5th to 6th
+place in the ranking of the global manufacturing countries by 2020. Manufacturing proportion is
+close to 30%, SMEs account for more than 99% of all industries in Korea. For SMEs, Korea has
+established national standards(KS : Korean Industrial Standards) for the spread of smart factory in
+2016 and is actively supporting the development of 30,000 smart factories by 2022 based on the
+best ICT competitiveness(World No.1 in 2017-2018)
+This study was conducted to provide practical assistance to SMEs, which have difficulty
+in developing their own smart factories due to poor available resources and insufficient systems·
+processes compared with large enterprises. For this study, 67 SMEs were assessed at the smart factory
+level by applying diagnostic model developed in accordance with manufacturing characteristics. We
+conducted statistical and qualitative analysis by classifying the data into various business conditions
+(industry type, production method, delivery to large company, sales amounts, etc.) of the company.
+In addition, we have presented priority tasks to improve the smart factory level by supplementing
+the weakness shown in the diagnosis result
+
+As a result of the diagnosis, the overall smart factory level was 19%, the operational division
+29% and the hardware/software division 8%. Diagnostic scores to classify into main five industries
+are 17∼21%, which is “Beginner” of the 5 steps of smart factory. While the levels of operational
+division were at 27∼31%, H/W·S/W were at only 5∼13%. The level of H/W·S/W in comparison
+with operational division is so low that ungent and sufficient support seem to be necessary. In
+operational division, Factory Field Basic, R&D Business, Production Control, Quality Control and
+Reference Information Standardization were excellent, Strategy, Facility Automation and Facility
+Management were weak. The correlations of R&D Business-Quality Control(r(correlation coefficient)=
+0.639) and Production Control-Quality Control(r= 0.683) between diagnostic categories were the
+highest. This shows that when the R&D quality is high, the level of manufacturing quality control
+increases, the repetitive production control and quality monitoring activity have the same tendency.
+There were almost no significant differences in the results of diagnosis by the type of
+industry, production method and delivery to large company but significant differences regarding
+Pre-built IT system, number of employees, sales amounts and number of smart factory support. We
+found that the existing infrastructure and size of the company are important for building of smart
+factory. The smaller the size of a company, the more likely it is that H/W·S/W needs to be built
+after PI(Process Innovation) activities are prioritized to increase operation efficiency. The same is
+true of large company. “Facility Automation” was the worst of all categories in the operational division,
+so all companies seemed to be more interested in H/W and facility ICT applications. 65% of the
+priority tasks were the PI project for the improvement of the company structure.
+Through this study, we proposed benchmarking opportunities to the industry by presenting
+smart factory level assessment and analysis results according to SMEs business conditions. Finally,
+the limitations of this study and the direction of future research were discussed.
+
+Keywords: SMEs, Smart Factory, Level Assessment, PI(Process Innovation), ICT

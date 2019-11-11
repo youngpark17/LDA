@@ -1,0 +1,11 @@
+Only a few experimental results for the cool roof are available in Korea. Moreover predictions based
+on theoretical analysis are lacking as well. The purpose of this study is to predict the cool roof surface
+temperatures, and then to compare those predictive values with experimental results. The parameters are
+insolation, wind, surface emission and absorption of irradiation from the sky, and air temperature. The colors of
+the roof are related with radiative properties such as SR (Solar reflectivity) and TE(Total Emissivity). KMA
+(Korea Meteorological Administration) data is used to simulate the roof surface temperature. The roof surface
+temperature decreases with increasing SR and TE, decreasing sky temperature, and decreasing air temperature
+over the roof. For hot roof, increasing convection to adjacent air decreases the roof surface temperature, but the
+opposite is true for the cold roof. The analytic predictions match relatively well with experimental results even
+with KMA hourly data. More experimental results with conditions specified are needed to justify the analytic
+model further.

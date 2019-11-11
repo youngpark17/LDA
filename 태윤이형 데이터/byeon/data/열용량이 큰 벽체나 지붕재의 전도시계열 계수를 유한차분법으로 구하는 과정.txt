@@ -1,0 +1,10 @@
+The purpose of this paper is to apply the numerical solution procedure to compute conduction
+time series factors (CTSF) for construction materials with large thermal capacities. After
+modifying the procedure in Ref. [9], it is applied to find the CTSF for the wall type 19 and the
+roof type 18 of ASHRAE. The response periods for one hr pulse load are longer than 24hrs for
+these wall and roof. The CTSF generated using modified procedure agree well with the values
+presented in the ASHRAE handbook. The modified procedure is a general procedure that can be
+applied to find CTSF for materials with complex structures. For the large thermal capacity
+materials, it should be checked whether thermal response period of the material is over 24hr or
+not. With suggested solution procedure, it is easy to check the validity of the CTSF based on
+24hr period.

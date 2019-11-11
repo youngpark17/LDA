@@ -1,0 +1,8 @@
+ The purpose of this study is to predict thermal performance of experimental models for the cool roof during the summer
+in Korea. According to literature survey, there is a few experimental results for cool roofs in Korea. Moreover theoretical prediction
+ons are lacking. Unsteady systems for the roof and the air inside the box are modeled and solved using numerical method.
+The predictions match well with experimental results for roof surface temperature. Predictions for room air temperatures are
+about the same as those amplitudes of experiments but phase shift of time are observed. The simulation results deviate most
+for ceiling surface temperature. The ceiling and room temperatures depend more on thermal properties that assumed because
+of lacking information. The results are more sensitive to solar reflectivity and total emissivity than other variables. For clear
+night and day, the results are sensitive to irradiation from the sky.

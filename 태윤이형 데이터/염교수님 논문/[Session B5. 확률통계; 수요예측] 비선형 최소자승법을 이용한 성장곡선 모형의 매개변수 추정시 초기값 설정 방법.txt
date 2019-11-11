@@ -1,0 +1,16 @@
+Growth curves including Logistic and Gompertz
+functions are widely used in forecasting the
+market demand. To estimate the parameters of
+those functions, we use the non-linear least square
+method. However, it is difficult to set up the
+starting points for each parameter. If a wrong
+starting point is selected, the result reveals the
+local optimum or does not converge to a certain
+value.
+The purpose of this paper is to resolve the
+problem of selecting a starting point. Especially,
+rescaling the market data using the national
+economic index make it possible to figure out the
+range of parameters and to utilize the grid search
+method. Applications to some real data are also
+included
